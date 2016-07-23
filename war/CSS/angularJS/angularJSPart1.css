@@ -1,0 +1,14 @@
+@CHARSET "utf-8";
+
+.row div {
+	float: left;
+}
+
+.row div div {
+	float: none;
+}
+
+#angularJSDemo {
+	width: 80%;
+	margin-left: 2%;
+}

@@ -1,0 +1,30 @@
+@CHARSET "utf-8";
+
+html,body {
+	height: 100%;
+	margin: initial;
+	display: initial;
+}
+
+.navbar-brand img {
+	height: 20px;
+}
+
+#navbar ul li a,.navbar-header a {
+	border-style: initial;
+}
+
+.navbar {
+	width: 100%;
+	font-size: 14px;
+}
+
+.navbar .container {
+	width: 90%;
+	margin-left: 98px;
+	margin-right: 98px;
+}
+
+.navbar-nav li {
+	padding: initial;
+}
